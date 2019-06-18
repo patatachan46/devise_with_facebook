@@ -1,24 +1,12 @@
-# README
+Name
+====
+SNS認証の練習
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Description
+Ruby on Railsの学習で使用したサイト。<br>
 
-* Ruby version
+参考サイト：　 Devise+OmniAuthでユーザ認証を実装する手順</br>
+サイトURL： 　https://qiita.com/kami_zh/items/94aec2d94a2b4e9a1d0b</br>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+内容：　Ruby on Railsとdeviseを使って簡単なSNS認証機能を作成。
